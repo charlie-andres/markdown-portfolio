@@ -5,3 +5,7 @@
 - I'm an anxious individual
 - I rock climb
 - I get hurt all the time
+
+#### **I even added bold letters**
+- list 
+- things
