@@ -1,1 +1,1 @@
-![profile image](https://avatars.githubusercontent.com/u/98117514?s=400&v=4)
+![GitHub Profile](https://github.com/charlie-andres)
